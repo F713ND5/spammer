@@ -11,3 +11,4 @@ def mengetik(s):
 mengetik(' Selamat datang di tools spammer sms')
 mengetik(' Saya sudah mendapatkan persetujuan dari team black coder crush untuk menyatukan ulang tools ini')
 print "\033[96m[√] TUNGGU SEBENTAR..."
+time.sleep(3)
